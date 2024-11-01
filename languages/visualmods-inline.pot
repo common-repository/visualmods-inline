@@ -1,0 +1,118 @@
+# Copyright (C) 2016 VisualMods Inline
+# This file is distributed under the same license as the VisualMods Inline package.
+msgid ""
+msgstr ""
+"Project-Id-Version: VisualMods Inline 1.01\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/visualmods-"
+"inline\n"
+"POT-Creation-Date: 2016-05-12 15:47:06+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: visualmods-inline.php:60
+msgid "Add Background Image"
+msgstr ""
+
+#: visualmods-inline.php:63
+msgid "Tile Background Image"
+msgstr ""
+
+#: visualmods-inline.php:65 visualmods-inline.php:113
+msgid "Clear"
+msgstr ""
+
+#: visualmods-inline.php:68
+msgid "Background Position"
+msgstr ""
+
+#: visualmods-inline.php:72
+msgid "Top Left"
+msgstr ""
+
+#: visualmods-inline.php:73
+msgid "Top Center"
+msgstr ""
+
+#: visualmods-inline.php:74
+msgid "Top Right"
+msgstr ""
+
+#: visualmods-inline.php:76
+msgid "Left Center"
+msgstr ""
+
+#: visualmods-inline.php:77
+msgid "Central"
+msgstr ""
+
+#: visualmods-inline.php:78
+msgid "Right Center"
+msgstr ""
+
+#: visualmods-inline.php:80
+msgid "Bottom Left"
+msgstr ""
+
+#: visualmods-inline.php:81
+msgid "Bottom Center"
+msgstr ""
+
+#: visualmods-inline.php:82
+msgid "Bottom Right"
+msgstr ""
+
+#: visualmods-inline.php:91
+msgid "100% Height Only"
+msgstr ""
+
+#: visualmods-inline.php:94
+msgid "100% Width Only"
+msgstr ""
+
+#: visualmods-inline.php:97
+msgid "100% Height & Width"
+msgstr ""
+
+#: visualmods-inline.php:304
+msgid "Padding"
+msgstr ""
+
+#: visualmods-inline.php:308
+msgid "Margin"
+msgstr ""
+
+#: visualmods-inline.php:312
+msgid "Round Corners"
+msgstr ""
+
+#: visualmods-inline.php:316
+msgid "Background Color"
+msgstr ""
+
+#: visualmods-inline.php:326
+msgid "Background Images"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "VisualMods Inline"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.visualmods.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds easy inline styling tools to mce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Clint Stegman"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.enyrgy.com"
+msgstr ""
